@@ -1,4 +1,5 @@
-![GitHub release downloads](https://img.shields.io/github/downloads/ssyangchn/ManualFlip/v1.0.0/total?label=Download%20count)
+![All downloads](https://img.shields.io/github/downloads/ssyangchn/ManualFlip/total?label=Total%20downloads)
+
 
 
 ## 📦 手动翻转 | Manual Flip
