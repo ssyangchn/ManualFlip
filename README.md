@@ -1,3 +1,6 @@
+![GitHub release downloads](https://img.shields.io/github/downloads/ssyangchn/ManualFlip/v1.0.0/total?label=Download%20count)
+
+
 ## 📦 手动翻转 | Manual Flip
 
 > 为《Balatro》添加快捷键功能，在打牌阶段手动翻转选中的手牌和小丑牌  
